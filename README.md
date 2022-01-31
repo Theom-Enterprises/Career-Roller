@@ -18,8 +18,8 @@ of the WebApp with a random job and details on training for it.
   - [x] User Story 2
   - [X] User Story 3
   - [X] User Story 4
-  - [ ] User Story 5
-  - [ ] User Story 6
+  - [X] User Story 5
+  - [X] User Story 6
 - [ ] M4-02-ADV
   - [ ] User Story 1
   - [ ] User Story 2
