@@ -4,7 +4,6 @@ let url = "../OpenJsonData.json"
 
 function rollCareer() {
     fetchData().then(function (data) {
-        console.log(data)
         appendData(data)
     })
 }
