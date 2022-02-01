@@ -1,6 +1,6 @@
 let mainContainer = document.getElementById("clientData")
 
-let url = "../OpenJsonData.json"
+let url = "src/data/OpenJsonData.json"
 
 function rollCareer() {
     fetchData().then(function (data) {
